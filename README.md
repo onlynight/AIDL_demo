@@ -223,7 +223,9 @@ public void callService(View view) {
 
 ###a.aidl生成类分析
 将Android Studio切换到项目视图，找到如下文件：
+
 ![Android Studio aidl 自动生成类](./images/aidl_interface_screenshot.png)
+
 我们将这个接口文件简化以下，看看系统多给我们做了些什么。
 
 ```java
